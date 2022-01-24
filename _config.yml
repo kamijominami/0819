@@ -11,12 +11,12 @@ name: Le Café des Fées ～妖精たちのカフェ～
 description: 君が見えない・・永遠の地平線
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: minami0819.com
+url: https://kamijominami.github.io/0819/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /0819
 
 
 #
@@ -49,10 +49,10 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  #请输入你的微博个性域名 https://weibo.com/u/2181233534
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: #fwl957239128@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
